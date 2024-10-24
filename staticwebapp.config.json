@@ -1,0 +1,9 @@
+{
+    "routes": [
+      {
+        "route": "/",
+        "redirect": "https://www.entireevents.com.au",
+        "statusCode": 301
+      }
+    ]
+  }
